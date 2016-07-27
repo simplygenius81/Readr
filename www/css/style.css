@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+.bar-assertive 
+{
+	background-image: url('../img/readrheader.png')!important; 
+	background-size: contain !important;
+    background-repeat: no-repeat!important; 
+    background-color: #d92738 !important;
+    -webkit-box-shadow: -1px 0px 5px 2px rgba(0,0,0,0.75)!important;
+	-moz-box-shadow: -1px 0px 5px 2px rgba(0,0,0,0.75)!important;
+	box-shadow: -1px 0px 5px 2px rgba(0,0,0,0.75)!important;
+}
+
+ion-content{
+	padding:0px;
+}
+
+.button{ background-color:red;
+}
